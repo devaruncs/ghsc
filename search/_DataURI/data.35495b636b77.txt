@@ -1,0 +1,1 @@
+moz-extension://40a5a9c1-6392-495a-a552-601eda676376/js/app.js
